@@ -1,0 +1,362 @@
+/* INDEX HEADING */
+table.indexHeading
+{
+font-family:       Verdana;
+font-weight:       normal;
+font-size:         10px;
+color:             #404040;
+width:					750px;
+background-color:  #F8FFFF;
+border:            0px;
+border-collapse:   collapse;
+border-spacing:    10px;
+margin-top:        20px;
+}
+
+table.indexHeading td
+{
+border:            0px;
+text-align:        center;
+padding:           3px;
+}
+
+table.indexHeading td.homeLine
+{
+text-align:        left;
+}
+
+table.indexHeading td.personName
+{
+font-weight:       bold;
+text-align:        center;
+font-size:         14px;
+}
+
+/* cssFamilyNamesTitle */
+table.familyNamesTable
+{
+font-family:       Verdana;
+font-weight:       normal;
+font-size:         10px;
+color:             #404040;
+width:             750px;
+background-color:  #F8FFFF;
+border:            3px solid #CEDCEA;
+border-collapse:   collapse;
+border-spacing:    10px;
+margin-top:        20px;
+}
+
+table.familyNamesTable td
+{
+border:            3px solid #CEDCEA;
+text-align:        center;
+padding:           3px;
+}
+
+table.familyNamesTable td.header
+{
+background-color:  #CEDCEA;
+text-align:        center;
+font-weight:       bold;
+}
+
+/* PEOPLE INDEX TABLE */
+table.peopleIndexTable
+{
+font-family:       Verdana;
+font-weight:       normal;
+font-size:         10px;
+color:             #404040;
+width:			 750px;
+background-color:  #F8FFFF;
+border-collapse:   collapse;
+border-spacing:    10px;
+margin-top:        10px;
+}
+
+table.peopleIndexTable td
+{
+text-align:        left;
+padding:           3px;
+}
+
+/* PAGE HEADING TABLE */
+table.pageHeadingTable
+{
+-webkit-text-size-adjust:200%;
+font-family:       Verdana;
+font-weight:       normal;
+font-size:         10px;
+color:             #404040;
+width:             800px;
+border:            0px solid #CEDCEA;
+border-collapse:   collapse;
+border-spacing:    0px;
+margin-top:        0px;
+}
+
+table.pageHeadingTable td.index
+{
+text-align:        left;
+}
+
+table.pageHeadingTable td.personName
+{
+text-align:        center;
+font-weight:       bold;
+font-size:         16px;
+}
+
+table.pageHeadingTable td.occupation
+{
+text-align:        center;
+font-weight:       bold;
+font-size:         12px;
+}
+
+/* CONTEXT DIAGRAM */
+table.contextDiagram
+{
+-webkit-text-size-adjust:200%;
+font-family:       Verdana;
+font-weight:       normal;
+font-size:         10px;
+color:             #404040;
+width:             800px;
+border:            10px solid #CEDCEA;
+border-collapse:   collapse;
+border-spacing:    0px;
+margin-top:        20px;
+}
+
+table.contextDiagram td
+{
+border:            3px solid #CEDCEA;
+text-align:        center;
+padding:           3px;
+}
+
+/* ANCESTORS TABLE */
+table.ancestorsTable
+{
+-webkit-text-size-adjust:200%;
+font-family:       Verdana;
+font-weight:       normal;
+font-size:         10px;
+color:             #404040;
+width:             100%;
+border:            5px solid #CEDCEA;
+border-collapse:   collapse;
+border-spacing:    0px;
+margin-top:        20px;
+}
+
+table.ancestorsTable td
+{
+border:            3px solid #CEDCEA;
+text-align:        center;
+padding:           3px;
+}
+
+/* PICTURES TABLE */
+table.picturesTable
+{
+-webkit-text-size-adjust:200%;
+font-family:       Verdana;
+font-weight:       normal;
+font-size:         10px;
+color:             #404040;
+width:             800px;
+border:            0px solid #CEDCEA;
+border-collapse:   collapse;
+border-spacing:    0px;
+margin-top:        20px;
+}
+
+table.picturesTable td
+{
+text-align:        center;
+}
+
+/* BIRTH, MARRIAGE AND DEATH TABLE */
+table.bdmTable
+{
+-webkit-text-size-adjust:200%;
+font-family:       Verdana;
+font-weight:       normal;
+font-size:         10px;
+color:             #404040;
+width:             800px;
+border:            0px solid #CEDCEA;
+border-collapse:   collapse;
+border-spacing:    0px;
+margin-top:        20px;
+}
+
+table.bdmTable td
+{
+text-align:        center;
+}
+
+/* PARENTS, SIBLINGS, CHILDREN AND GRANDCHILDRN TABLE */
+table.pcTable
+{
+-webkit-text-size-adjust:200%;
+font-family:       Verdana;
+font-weight:       normal;
+font-size:         10px;
+color:             #404040;
+width:             800px;
+border:            0px solid #CEDCEA;
+border-collapse:   collapse;
+border-spacing:    0px;
+margin-top:        20px;
+}
+
+table.pcTable td
+{
+text-align:        center;
+}
+
+/* RELATIVES TABLE */
+table.relativesTable
+{
+-webkit-text-size-adjust:200%;
+font-family:       Verdana;
+font-weight:       normal;
+font-size:         10px;
+color:             #404040;
+width:             800px;
+border:            3px solid #CEDCEA;
+border-collapse:   collapse;
+border-spacing:    0px;
+margin-top:        20px;
+}
+
+table.relativesTable td
+{
+border:            2px solid #CEDCEA;
+text-align:        left;
+padding:           1px;
+}
+table.relativesTable td.relativesHeader
+{
+background-color:  #CEDCEA;
+text-align:        center;
+font-weight:       bold;
+}
+
+table.relativesTable td.relativesColumnHeader
+{
+font-weight:       bold;
+}
+
+table.relativesTable td.relativesSeparatorLine
+{
+font-size:         5px;
+background-color:  #CEDCEA;
+}
+
+/* EVENTS TABLE */
+table.eventsTable
+{
+-webkit-text-size-adjust:200%;
+font-family:       Verdana;
+font-weight:       normal;
+font-size:         10px;
+color:             #404040;
+width:             800px;
+border-left:       13px solid #CEDCEA;
+border-right:      13px solid #CEDCEA;
+border-bottom:     13px solid #CEDCEA;
+border-collapse:   collapse;
+border-spacing:    0px;
+margin-top:        20px;
+}
+
+table.eventsTable td
+{
+border:            2px solid #CEDCEA;
+text-align:        left;
+padding:           3px;
+}
+table.eventsTable td.tableHeader
+{
+background-color:  #CEDCEA;
+text-align:        center;
+font-weight:       bold;
+}
+
+table.eventsTable td.columnHeader
+{
+font-weight:       bold;
+}
+
+table.eventsTable td.date
+{
+}
+
+table.eventsTable td.age
+{
+text-align:        center;
+white-space:       nowrap;
+}
+
+table.eventsTable td.name
+{
+}
+
+table.eventsTable td.place
+{
+}
+
+table.eventsTable td.notes
+{
+}
+
+table.eventsTable td.sourceRefs
+{
+text-align:        center;
+}
+
+/* NOTES, COMMENTS and SOURCE REFERENCES TABLES */
+table.notesTable
+{
+-webkit-text-size-adjust:200%;
+font-family:       Verdana;
+font-weight:       normal;
+font-size:         10px;
+color:             #404040;
+width:             800px;
+border:            0px solid #CEDCEA;
+border-collapse:   collapse;
+border-spacing:    0px;
+margin-top:        10px;
+}
+
+table.notesTable td
+{
+text-align:        left;
+}
+
+/* PAGE FOOTER */
+table.pageFooter
+{
+-webkit-text-size-adjust:200%;
+font-family:       Verdana;
+font-weight:       normal;
+font-size:         10px;
+color:             #404040;
+width:             800px;
+border:            0px solid #CEDCEA;
+border-collapse:   collapse;
+border-spacing:    0px;
+margin-top:        0px;
+}
+
+table.pageFooter td
+{
+text-align:        center;
+}
+
